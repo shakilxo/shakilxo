@@ -57,6 +57,12 @@
 <br/>
 
 ## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakilxo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+
 <p align="center">
  
 ![](https://github-readme-stats.vercel.app/api?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -71,21 +77,21 @@
 ## 🔍Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdshakil.hosennx) 
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shakil-hosen/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakilxo/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nx_shakil) 
 [![Discord](https://img.shields.io/badge/Discord-%231DA1F2.svg?logo=Discord&logoColor=white)](https://discord.com/channels/1031213306150662194/1031213306150662196)
 [![Skype](https://img.shields.io/badge/skype-%231DA1F2.svg?logo=skype&logoColor=white)](https://www.skype.com/live:.cid.c6e5fa29e3e4f179)
 [![Dribbble](https://img.shields.io/badge/dribbble-%231DA1F2.svg?logo=dribbble&logoColor=white)](https://dribbble.com/nx_shakil)
 [![YouTube](https://img.shields.io/badge/Youtube-%231DA1F2.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC6LDxFBJX7IhmfNTjotSn9Q) 
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%231877F2.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14925608/md-shakil-hosen) 
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%231877F2.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14925608/shakilxo) 
 [![Codeforces](https://img.shields.io/badge/codeforces-%231877F2.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shakil-Nx) 
 
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=md-shakil-hosen">
+    <img src="https://komarev.com/ghpvc/?username=shakilxo">
 </a>
-<a href="https://github.com/md-shakil-hosen?tab=followers"><img src="https://img.shields.io/github/followers/md-shakil-hosen?label=Followers&style=social" alt=""></a>
+<a href="https://github.com/shakilxo?tab=followers"><img src="https://img.shields.io/github/followers/shakilxo?label=Followers&style=social" alt=""></a>
 
 
