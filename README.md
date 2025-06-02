@@ -56,11 +56,12 @@
  </p>
 <br/>
 
-## 🔷Current Streak
+## 📊 GitHub Stats:
 <p align="center">
-    <a href="https://github.com/md-shakil-hosen/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shakil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shakil-hosen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+ 
+![](https://github-readme-stats.vercel.app/api?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shakilxo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 <!-- ## 📊 My Github Stats -->
