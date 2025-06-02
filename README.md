@@ -64,9 +64,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
-<!-- ## 📊 My Github Stats -->
-
-<!--   <br/>
+ ## 📊 My Github Stats
+ 
     <a href="https://github.com/md-shakil-hosen/github-readme-stats"><img alt="Shakil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-shakil-hosen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/md-shakil-hosen/github-readme-stats"><img alt="Shaki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shakil-hosen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -75,7 +74,6 @@
 
 [![Md Shakil Hosen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=md-shakil-hosen&theme=dracula)](https://github.com/md-shakil-hosen/github-readme-activity-graph)
 
-<br/> -->
 <br/>
 
 ## 🔍Connect with me:
