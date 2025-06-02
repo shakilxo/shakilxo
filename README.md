@@ -64,18 +64,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
- ## 📊 My Github Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shakilxo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  
-    <a href="https://github.com/md-shakil-hosen/github-readme-stats"><img alt="Shakil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-shakil-hosen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/md-shakil-hosen/github-readme-stats"><img alt="Shaki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shakil-hosen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<br/>
-<br/>
-
-[![Md Shakil Hosen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=md-shakil-hosen&theme=dracula)](https://github.com/md-shakil-hosen/github-readme-activity-graph)
-
-<br/>
-
 ## 🔍Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdshakil.hosennx) 
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
