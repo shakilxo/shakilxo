@@ -60,15 +60,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakilxo&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ 
+![](https://nirzak-streak-stats.vercel.app/?user=shakilxo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+ 
 </div>
 
-
-<p align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shakilxo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shakilxo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
