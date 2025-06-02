@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/bvnbmL6/Group-11.png"/></a>
 
 <!-- https://i.ibb.co/BzbsbKP/Group-1-1.png -->
-<h1 align="center" font-size="40px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&pause=1000&center=true&vCenter=true&width=435&lines=Passionist++Front-End+Developer;React+Developer" alt="Typing SVG" /></a></a></h1>
+<h1 align="center" font-size="40px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&pause=1000&center=true&vCenter=true&width=435&lines=Passionist++Front-End+Developer;WordPress+Developer" alt="Typing SVG" /></a></a></h1>
 
 <h3 align="center">“𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐢𝐬 𝐧𝐨𝐭 𝐞𝐚𝐬𝐲 𝐥𝐢𝐤𝐞 𝐒𝐮𝐧𝐝𝐚𝐲 𝐦𝐨𝐫𝐧𝐢𝐧𝐠, 𝐢𝐭 𝐢𝐬 𝐬𝐢𝐥𝐞𝐧𝐭 𝐩𝐨𝐞𝐭𝐫𝐲”</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Front-End Development](/)**
+- 🔭 I’m currently working on **[WordPress](/)**
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **PHP/Laravel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shakil-dev.netlify.app/)**
 
-- 📫 How to reach me **shakilinfo91@gmail.com**
+- 📫 How to reach me **shakilifo.dev@gmail.com**
 
 - ⚡ Fun fact **I also love watching English movies.**
 
