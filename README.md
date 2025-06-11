@@ -59,10 +59,8 @@
 ## 🖌️ AI Tools:
 
  <p align="left">
-&lt;a href="https://chat.openai.com/" target="_blank">&lt;img src="https://img.icons8.com/color/48/000000/chatgpt.png"/>&lt;/a>
-&lt;a href="https://gemini.google.com/" target="_blank">&lt;img src="https://img.icons8.com/fluency/48/000000/google-gemini.png"/>&lt;/a>
-&lt;a href="https://grok.com/" target="_blank">&lt;img src="https://img.icons8.com/fluency/48/000000/grok.png"/>&lt;/a>
-
+  <a href="https://chat.openai.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/chatgpt.png"/></a>
+    <a href="https://gemini.google.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-gemini.png"/></a>
  </p>
 <br/>
 
