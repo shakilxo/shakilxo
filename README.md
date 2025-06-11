@@ -39,7 +39,7 @@
 <!--     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a> -->
      <a href="https://wordpress.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
      <a href="https://weebly.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/weebly.png"/></a>
-     <a href="https://wix.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/wix.png"/></a>
+ 
 
     
 </p>
