@@ -60,7 +60,7 @@
 
  <p align="left">
   <a href="https://chat.openai.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/chatgpt.png"/></a>
-    <a href="https://gemini.google.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-gemini.png"/></a>
+    <a href="https://gemini.google.com" target="_blank"><img src="https://icons8.com/icons/set/gemini-ai"/></a>
  </p>
 <br/>
 
