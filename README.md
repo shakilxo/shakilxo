@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[WordPress](/)**
+- 🔭 I’m currently working on **[ReactJs](/)**
 
 - 🌱 I’m currently learning **PHP/Laravel**
 
@@ -19,6 +19,18 @@
 - 📫 How to reach me **shakilifo.dev@gmail.com**
 
 - ⚡ Fun fact **I also love watching English movies.**
+- 
+## 🛠️ Tech Stack & Tools
+
+### 🚀 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,bootstrap,tailwindcss,materialui,nextjs,nodejs,express,mongodb,redux,python" alt="Tech Stack" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,linux,figma,postman,vercel,netlify,ai" alt="Tools & Platforms" />
+</p>
 
 ## ⚙️ Languages and Tools:
  <p align="left"> 
