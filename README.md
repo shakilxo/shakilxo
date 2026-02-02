@@ -24,7 +24,7 @@
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,bootstrap,tailwindcss,materialui,nextjs,nodejs,express,mongodb,wordpress" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,bootstrap,tailwindcss,materialui,nextjs,nodejs,express,mongodb,wordpress,php,mysql" alt="Tech Stack" />
 </p>
 
 ### 🛠 Tools & Platforms
