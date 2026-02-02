@@ -37,17 +37,11 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakilxo&show_icons=true&theme=radical" alt="GitHub Stats" />
- 
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=shakilxo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
  
 </div>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shakilxo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=shakilxo&icon=0&color=0)](https://visitcount.itsvg.in)
  
 ## 🔍Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdshakil.hosennx) 
