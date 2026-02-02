@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **[ReactJs](/)**
 
-- 🌱 I’m currently learning **PHP/Laravel**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shakil-dev.netlify.app/)**
 
-- 📫 How to reach me **shakilifo.dev@gmail.com**
+- 📫 How to reach me **shakil.infox@gmail.com**
 
 - ⚡ Fun fact **I also love watching English movies.**
 - 
@@ -32,16 +32,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,figma,ai,ps" alt="Tools & Platforms" />
 </p>
 
-## 🖌️ Design Tools:
-
- <p align="left">
- <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/></a>
-    <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/></a>
-    <a href="https://figma.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-    <a href="https://figma.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/></a>
-    <a href="https://figma.com" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/canva-app.png"/></a>
-
- </p>
 <br/>
 
 ## 📊 GitHub Stats:
