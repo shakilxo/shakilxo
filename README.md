@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[ReactJs](/)**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Vibe Coding | Prompt Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
