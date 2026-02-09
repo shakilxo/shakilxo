@@ -21,7 +21,7 @@
 - 💬 Ask me about **Vibe Coding**
   
 - ⚡ Fun fact **I also love watching English movies.**
-- 
+  
 ## 🛠️ Tech Stack & Tools
 
 ### 🚀 Languages & Frameworks
@@ -31,7 +31,7 @@
 
 ### 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,supabase,mongodb,figma,ai,ps" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,supabase,mongodb,aistudio,figma,ai,ps" alt="Tools & Platforms" />
 </p>
 
 <br/>
