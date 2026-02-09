@@ -24,12 +24,12 @@
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,bootstrap,tailwindcss,materialui,nextjs,nodejs,express,mongodb,wordpress,php" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,bootstrap,tailwindcss,materialui,nextjs,nodejs,express,wordpress,php" alt="Tech Stack" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,supabase,figma,ai,ps" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,supabase,mongodb,figma,ai,ps" alt="Tools & Platforms" />
 </p>
 
 <br/>
