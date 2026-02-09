@@ -29,7 +29,7 @@
 
 ### 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,figma,ai,ps" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,supabase,figma,ai,ps" alt="Tools & Platforms" />
 </p>
 
 <br/>
