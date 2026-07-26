@@ -36,15 +36,6 @@
 
 <br/>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=shakilxo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
- 
-</div>
- 
 ## 🔍Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdshakil.hosennx) 
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
