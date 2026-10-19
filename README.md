@@ -10,17 +10,17 @@
 
 - 🔭 I’m currently working on **[ReactJs](/)**
 
-- 🌱 I’m currently learning **Vibe Coding | Prompt Engineering**
+- 🌱 I’m currently learning **Automation Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shakil-dev.netlify.app/)**
 
-- 📫 How to reach me **shakil.infox@gmail.com**
+- 📫 How to reach me: **shakil.infox@gmail.com**
   
 - 💬 Ask me about **Vibe Coding**
   
-- ⚡ Fun fact **I also love watching English movies.**
+- ⚡ Fun fact: **I also love watching English movies.**
   
 ## 🛠️ Tech Stack & Tools
 
